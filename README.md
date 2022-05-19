@@ -1,1 +1,0 @@
-# go_lego_price_scraper
